@@ -1,0 +1,18 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+.red {
+    border: 3px solid red
+}
+
+.green {
+    border: 3px solid green
+}
+
+div {
+    margin: 1px
+}
+
+#elementas {
+    font-size: 80px;
+}

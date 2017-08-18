@@ -1,0 +1,24 @@
+.ketvirtas div {
+    float: left;
+    margin: 0 1%;
+    border: none;
+}
+.d1_4 {
+    width: 23%;
+}
+.d2_4 {
+    width: 48%;
+}
+.d3_4 {
+    width: 73%;
+}
+.d4_4 {
+    width: 98%;
+}
+
+.green_border {
+    background-color: green;
+}
+.red_border {
+    background-color: red;
+}
